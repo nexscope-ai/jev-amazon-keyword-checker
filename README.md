@@ -6,7 +6,7 @@ A small Python CLI for Amazon sellers and developers. Nexscope supplies keyword 
 
 **Status:** initial implementation based on public API contracts. Offline tests and request previews are available. Authenticated end-to-end behavior and the quality of the SEO relevance preset on Amazon listings have not yet been verified. No hosted app is included.
 
-[Get a Nexscope API key](https://www.nexscope.ai/api-docs/jev-evaluate?co-from=githubjev) · [Amazon keyword API](https://www.nexscope.ai/api-docs/amazon-keyword-expansion?co-from=githubjev) · [How it works](docs/api-contract.md)
+[Get a Nexscope API key](https://www.nexscope.ai/seller/api-access?co-from=githubjev) · [Amazon keyword API](https://www.nexscope.ai/api-docs/amazon-keyword-expansion?co-from=githubjev) · [How it works](docs/api-contract.md)
 
 ## Try it without a key
 
